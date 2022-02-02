@@ -1,0 +1,8 @@
+.venv/
+.env
+env/
+
+venv/
+
+bateria.mp3
+movie.mp4
